@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Synthetic Overload
 description: Thoughts, rambling, poetry, by Dany Hawk
+
+remote_theme: pages-themes/tactile@v0.2.0
+plugins: jekyll-remote-theme
